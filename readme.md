@@ -370,6 +370,7 @@ Available for MacOS, Linux, & Windows<br>
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
+| [FreeDevKit]([https://www.freedevkit.com](https://freedevkit.com/tools/favicon-generator/)) - Free developer utilities and tools kit - Favicon.
 | [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
 | [Material Icons](https://material.io/resources/icons/)| Material design icon library |
 | [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
